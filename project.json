@@ -1,0 +1,12 @@
+[
+    {
+        "project_id":101,
+        "project_name":"Project1",
+        "client_location":"USA"
+    },
+    {
+        "project_id":102,
+        "project_name":"Project2",
+        "client_location":"UK"
+    }
+]
